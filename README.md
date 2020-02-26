@@ -1,4 +1,4 @@
-# EFIX Pokemon project
+# EFIC Pokemon project
 
 Pokemon EFIC project repository
 
